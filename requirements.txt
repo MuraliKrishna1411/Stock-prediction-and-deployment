@@ -4,4 +4,3 @@ pandas
 numpy
 nsepy
 scikit-learn==1.1.1
-nsepy--upgrade
